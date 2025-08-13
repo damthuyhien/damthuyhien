@@ -44,16 +44,11 @@
 
 ---
 
-## 🌟 GitHub Stats
-![Bé's GitHub stats](https://github-readme-stats.vercel.app/api?username=ten-github-cua-be&show_icons=true&theme=radical)
-
----
 
 ## 🔗 Contact Me
 - Email: **damthuyhien141224@gmail.com**
-- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
-- Portfolio: [link portfolio](https://link-portfolio.com)
+
 
 ---
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ten-channel)
 
-![Footer Banner](https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1350&q=80)
