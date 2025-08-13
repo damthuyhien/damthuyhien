@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Đàm Thúy Hiền 
 
-![Banner](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1350&q=80)
+![Banner](z6903246423995_0f3141fa7337175260309e443b63ad32.jpg)
 
 ## 🌱 About Me
 - Sinh viên đam mê **công nghệ, lập trình, AI và game development**
