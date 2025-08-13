@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Đàm Thúy Hiền 
 
-![Banner](z6903246423995_0f3141fa7337175260309e443b63ad32.jpg)
-
 ## 🌱 About Me
 - Sinh viên đam mê **công nghệ, lập trình, AI và game development**
 - Thích học hỏi và thử thách bản thân với **dự án thực tế**
@@ -52,7 +50,7 @@
 ---
 
 ## 🔗 Contact Me
-- Email: **your.email@example.com**
+- Email: **damthuyhien141224@gmail.com**
 - LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
 - Portfolio: [link portfolio](https://link-portfolio.com)
 
