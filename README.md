@@ -1,11 +1,11 @@
-# Hi there 👋, I'm Bé
+# Hi there 👋, I'm Đàm Thúy Hiền 
 
 ![Banner](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1350&q=80)
 
 ## 🌱 About Me
 - Sinh viên đam mê **công nghệ, lập trình, AI và game development**
 - Thích học hỏi và thử thách bản thân với **dự án thực tế**
-- Yêu thích **game, nhạc, nghệ thuật số** và các dự án sáng tạo
+- Yêu thích **game, vẽ, nhạc, nghệ thuật số** và các dự án sáng tạo
 - Luôn cập nhật **kỹ năng mới mỗi ngày** 🚀
 
 ---
